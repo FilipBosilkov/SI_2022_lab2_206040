@@ -3,7 +3,7 @@
 
 ### Control Flow Graph
 
-<img src="/baranje12.drawio.png" alt="CFG"/>
+<img src="/CFG.png" alt="CFG"/>
 
 ### Цикломатска комплексност
 
